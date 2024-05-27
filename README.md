@@ -1,5 +1,4 @@
-# Bisi_Portfolio
-Example data science portfolio
+# Bisi Portfolio
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
