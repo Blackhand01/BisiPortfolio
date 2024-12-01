@@ -92,10 +92,10 @@ Contributed to the development and fine-tuning of machine learning models to enh
 
 - **Master of Science in Computer Science**
   - Politecnico di Torino  
-  - April 2023 – December 2025
+  - April 2024 – December 2025
 - **Bachelor of Science in Computer Science**
   - Politecnico di Torino  
-  - September 2019 – April 2023
+  - October 2020 – April 2024
 
 
 ---
