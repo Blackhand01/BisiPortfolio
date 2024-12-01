@@ -8,14 +8,9 @@ Experienced software developer specializing in machine learning and natural lang
 
 ## **Work Experience**
 
-### **ML Engineer**
-*May 2024 – Present*
-
 Contributed to the development and fine-tuning of machine learning models to enhance translation accuracy between Italian and multiple languages. Focused on technical domains, adhering to rigorous standards in dataset preparation, model evaluation, and optimization. Collaborated within an agile team to deliver scalable and efficient solutions tailored to industry-specific needs.
 
 ---
-
-## **Projects**
 
 ### **Translation Model Enhancement for Technical Domains**
 
@@ -52,6 +47,7 @@ Contributed to the development and fine-tuning of machine learning models to enh
   - Improved data consistency and reliability, facilitating more accurate model training and evaluation.
 
 ---
+## **Personal Projects**
 
 ### **Vision Transformer Implementation**
 
@@ -97,7 +93,6 @@ Contributed to the development and fine-tuning of machine learning models to enh
 - **Bachelor of Science in Computer Science**
   - Politecnico di Torino  
   - October 2020 – April 2024
-
 
 ---
 
