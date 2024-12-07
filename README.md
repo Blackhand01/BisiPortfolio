@@ -8,7 +8,7 @@ Experienced software developer specializing in machine learning and natural lang
 
 ## **Work Experience**
 
-Contributed to the development and fine-tuning of machine learning models to enhance translation accuracy between Italian and multiple languages. Focused on technical domains, adhering to rigorous standards in dataset preparation, model evaluation, and optimization. Collaborated within an agile team to deliver scalable and efficient solutions tailored to industry-specific needs.
+> Contributed to the development and fine-tuning of machine learning models to enhance translation accuracy between Italian and multiple languages. Focused on technical domains, adhering to rigorous standards in dataset preparation, model evaluation, and optimization. Collaborated within an agile team to deliver scalable and efficient solutions tailored to industry-specific needs.
 
 ---
 
