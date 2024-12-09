@@ -10,7 +10,6 @@ Experienced software developer specializing in machine learning and natural lang
 
 > Contributed to the development and fine-tuning of machine learning models to enhance translation accuracy between Italian and multiple languages. Focused on technical domains, adhering to rigorous standards in dataset preparation, model evaluation, and optimization. Collaborated within an agile team to deliver scalable and efficient solutions tailored to industry-specific needs.
 
----
 
 ### **Translation Model Enhancement for Technical Domains**
 
@@ -29,7 +28,6 @@ Experienced software developer specializing in machine learning and natural lang
   - Achieved significant improvements in translation accuracy across multiple technical datasets.
   - Enhanced the model's ability to handle complex and context-dependent translations, leading to a 18%  increase in overall performance metrics.
 
----
 
 ### **Automation Scripts for Data Preprocessing and MLOps**
 
@@ -48,6 +46,26 @@ Experienced software developer specializing in machine learning and natural lang
 
 ---
 ## **Personal Projects**
+Ecco come puoi aggiungere il progetto **PostGenius** al tuo portfolio GitHub:
+
+
+### **PostGenius**
+- **Description:** An AI-powered application that uses Retrieval-Augmented Generation (RAG) techniques to create multimedia content, including text posts, images, memes, and videos, based on news articles. Designed for social media management, marketing, and content creation.
+- **Technologies Used:**
+  - **Backend:** FastAPI, Python.
+  - **Frontend:** Next.js, Tailwind CSS.
+  - **APIs:** Groq, Vectara, OpenAI, RunwayML, NewsAPI.
+  - **Tools:** Imgflip for meme generation, OpenAI DALL-E for image creation.
+- **Responsibilities:**
+  - Designed and implemented an architecture to integrate multiple APIs for efficient content generation.
+  - Developed custom modules for Retrieval-Augmented Generation (RAG) workflows.
+  - Optimized backend and frontend for seamless user interaction and fast response times.
+  - Created documentation and setup instructions for deployment and user onboarding.
+- **Results:**
+  - Delivered a fully functional application that generates high-quality multimedia content with sources cited.
+  - Improved workflow efficiency for social media content creators and marketers.
+- **Repository:** [PostGenius](https://github.com/Blackhand01/PostGenius)
+
 
 ### **Vision Transformer Implementation**
 
