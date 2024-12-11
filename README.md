@@ -46,8 +46,6 @@ Experienced software developer specializing in machine learning and natural lang
 
 ---
 ## **Personal Projects**
-Ecco come puoi aggiungere il progetto **PostGenius** al tuo portfolio GitHub:
-
 
 ### **PostGenius**
 - **Description:** An AI-powered application that uses Retrieval-Augmented Generation (RAG) techniques to create multimedia content, including text posts, images, memes, and videos, based on news articles. Designed for social media management, marketing, and content creation.
