@@ -8,16 +8,15 @@ Experienced software developer specializing in machine learning and natural lang
 
 ## **Work Experience**  
 
-> Contributed to the development and fine-tuning of machine learning models to enhance translation accuracy between Italian and multiple languages. Focused on technical domains, adhering to rigorous standards in dataset preparation, model evaluation, and optimization. Collaborated within an agile team to deliver scalable and efficient solutions tailored to industry-specific needs.  
+> Contributed to the development and fine-tuning of machine learning models to enhance translation accuracy between Italian and multiple (18) languages. Focused on technical domains, adhering to rigorous standards in dataset preparation, model evaluation, and optimization. Collaborated within an agile team to deliver scalable and efficient solutions tailored to industry-specific needs.  
 
 ### **Translation Model Enhancement for Technical Domains**  
 
 - **Description:** Designed and implemented fine-tuning pipelines for advanced language models to improve translation accuracy in specialized technical contexts.  
 - **Technologies Used:**  
-  - **Machine Learning Frameworks:** OpenAI API, GPT models.  
+  - **Machine Learning Frameworks:** OpenAI API. 
   - **Programming Languages:** Python.  
-  - **Data Augmentation Techniques:** Applied paraphrasing and dataset refinement to increase linguistic diversity.  
-  - **Version Control Systems:** Git for collaboration and workflow management.  
+  - **Data Augmentation Techniques:** Applied paraphrasing and dataset refinement.  
 - **Responsibilities:**  
   - Prepared and validated datasets to ensure consistency and quality in training inputs.  
   - Developed and tested fine-tuning strategies to maximize model performance.  
@@ -41,7 +40,7 @@ Experienced software developer specializing in machine learning and natural lang
 - **Results:**  
   - **Reduced data preprocessing time by 40%** through automation.  
   - Improved data consistency and reliability, facilitating more accurate model training and evaluation.  
-
+ - **Repository:** [MLOps Framework](https://github.com/Blackhand01/mlops_finetuning_framework)  
 ---
 
 ## **Personal Projects**  
@@ -69,7 +68,6 @@ Experienced software developer specializing in machine learning and natural lang
 - **Description:** Replicated and optimized the "Vision Transformer" (ViT) model for educational and benchmarking purposes.  
 - **Technologies Used:**  
   - **Machine Learning Frameworks:** PyTorch.  
-  - **Programming Languages:** Python.  
   - **Hardware:** GPU acceleration for training.  
 - **Responsibilities:**  
   - Implemented the ViT model using standard datasets such as CIFAR-10 and ImageNet.  
@@ -84,19 +82,10 @@ Experienced software developer specializing in machine learning and natural lang
 
 ## **Skills**  
 
-- **Programming Languages:** Python.  
-- **Machine Learning:**  
-  - Fine-tuning of language and vision models.  
-  - Dataset preparation, augmentation, and evaluation.  
-  - Performance optimization and hyperparameter tuning.  
-- **Data Processing:**  
-  - Data cleaning, validation, and formatting.  
-  - Automation of preprocessing pipelines.  
-- **Tools and Platforms:**  
-  - OpenAI API (e.g., GPT models).  
-  - PyTorch, TensorFlow.  
-  - Hugging Face Transformers.  
-  - GPU and TPU-based training environments.  
+* **Programming:** Python, C++, Rust, JavaScript, Java, SQL.
+* **AI & Machine Learning:** PyTorch, TensorFlow, Hugging Face, OpenAI APIs, LLMOps.
+* **Technologies & Tools:** FastAPI, Docker, Kubernetes, Git, Retrieval-Augmented Generation (RAG).
+* **Data Engineering:** Automated data preprocessing, dataset optimization, and validation.
 
 ---
 
