@@ -13,10 +13,7 @@ Experienced software developer specializing in machine learning and natural lang
 ### **Translation Model Enhancement for Technical Domains**  
 
 - **Description:** Designed and implemented fine-tuning pipelines for advanced language models to improve translation accuracy in specialized technical contexts.  
-- **Technologies Used:**  
-  - **Machine Learning Frameworks:** OpenAI API. 
-  - **Programming Languages:** Python.  
-  - **Data Augmentation Techniques:** Applied paraphrasing and dataset refinement.  
+- **Technologies Used:** OpenAI API, Python, NLP metrics (BLEU, ROUGE), data augmentation.
 - **Responsibilities:**  
   - Prepared and validated datasets to ensure consistency and quality in training inputs.  
   - Developed and tested fine-tuning strategies to maximize model performance.  
@@ -26,14 +23,12 @@ Experienced software developer specializing in machine learning and natural lang
   - Achieved significant improvements in translation accuracy across multiple technical datasets.  
   - Enhanced the model's ability to handle complex and context-dependent translations, leading to an **18% increase** in overall performance metrics.  
 
-### **Automation Scripts for Data Preprocessing and MLOps**  
+### **Automation Scripts for MLOps**  
 
 - **Description:** Developed robust automation pipelines to streamline data preprocessing and model deployment workflows.  
-- **Technologies Used:**  
-  - **Programming Languages:** Python.  
-  - **MLOps Tools:** Automated workflows for data preparation and integration with machine learning pipelines.  
+- **Technologies Used:** Python, Bash
 - **Responsibilities:**  
-  - Automated data transformation into standard formats (e.g., CSV, JSON, JSONL).  
+  - Automated data transformation into standard formats (CSV, JSON, JSONL).  
   - Designed scripts for dataset splitting into training, validation, and test sets.  
   - Ensured high-quality preprocessing to maintain data integrity and reproducibility.  
   - Enhanced efficiency by reducing manual processing time and minimizing errors.  
@@ -45,12 +40,14 @@ Experienced software developer specializing in machine learning and natural lang
 
 ## **Personal Projects**  
 
-### BisiAgent007 (Personal Project)
+### **BisiAgent007**
 
-* Created an advanced intelligent coding assistant seamlessly integrated with VS Code, inspired by Cursor and powered by GPT-4o and sophisticated Retrieval-Augmented Generation (RAG) technologies.
-* Enabled intuitive, semantic querying of codebases, automatic file edits, precise code suggestions, and direct shell command execution, streamlining complex development tasks.
-* Streamlined developer workflows, reducing manual effort.
-* [Coding Assistant](https://github.com/Blackhand01/BisiAgent007)
+- **Description:** An advanced intelligent coding assistant, inspired by Cursor and powered by GPT-4o and sophisticated Retrieval-Augmented Generation (RAG) technologies.
+- **Technologies Used:**  Python, OpenAI API 
+- **Results:**
+  -  Enabled intuitive, semantic querying of codebases, automatic file edits, precise code suggestions, and direct shell command execution, streamlining complex development tasks.
+  -  Streamlined developer workflows, reducing manual effort.
+ - **Repository:**  [Coding Assistant](https://github.com/Blackhand01/BisiAgent007)
 
 ### **PostGenius**  
 - **Description:** An AI-powered application that uses Retrieval-Augmented Generation (RAG) techniques to create multimedia content, including text posts, images, memes, and videos, based on news articles. Designed for social media management, marketing, and content creation.  
@@ -60,11 +57,6 @@ Experienced software developer specializing in machine learning and natural lang
   - **Frontend:** Next.js, Tailwind CSS.  
   - **APIs:** Groq, Vectara, OpenAI, RunwayML, NewsAPI.  
   - **Tools:** Imgflip for meme generation, OpenAI DALL-E for image creation.  
-- **Responsibilities:**  
-  - Designed and implemented an architecture to integrate multiple APIs for efficient content generation.  
-  - Developed custom modules for Retrieval-Augmented Generation (RAG) workflows.  
-  - Optimized backend and frontend for seamless user interaction and fast response times.  
-  - Created documentation and setup instructions for deployment and user onboarding.  
 - **Results:**  
   - Delivered a fully functional application that generates high-quality multimedia content with sources cited.  
   - Improved workflow efficiency for social media content creators and marketers.  
@@ -72,18 +64,14 @@ Experienced software developer specializing in machine learning and natural lang
 
 ### **Vision Transformer Implementation**  
 
-- **Description:** Replicated and optimized the "Vision Transformer" (ViT) model for educational and benchmarking purposes.  
+- **Description:** Replicated and optimized the "Vision Transformer" (ViT) model using standard datasets such as CIFAR-10 and ImageNet. 
 - **Technologies Used:**  
   - **Machine Learning Frameworks:** PyTorch.  
   - **Hardware:** GPU acceleration for training.  
-- **Responsibilities:**  
-  - Implemented the ViT model using standard datasets such as CIFAR-10 and ImageNet.  
-  - Conducted performance comparisons with convolutional networks like ResNet.  
-  - Optimized hyperparameters including learning rate, dropout, and weight decay.  
 - **Results:**  
   - Achieved benchmark-level accuracy, highlighting the efficiency of ViT on large-scale datasets.  
   - Demonstrated superior performance in image classification tasks compared to traditional convolutional networks.  
-- **Repository:** [Vision Transformer Implementation](https://github.com/Blackhand01/Vision-Transformer)  
+- **Repository:** [ViT](https://github.com/Blackhand01/Vision-Transformer)  
 
 ---
 
