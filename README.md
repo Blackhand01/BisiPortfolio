@@ -40,10 +40,17 @@ Experienced software developer specializing in machine learning and natural lang
 - **Results:**  
   - **Reduced data preprocessing time by 40%** through automation.  
   - Improved data consistency and reliability, facilitating more accurate model training and evaluation.  
- - **Repository:** [MLOps Framework](https://github.com/Blackhand01/mlops_finetuning_framework)  
+ - **Repository:** [OpenAI API Framework](https://github.com/Blackhand01/mlops_finetuning_framework)  
 ---
 
 ## **Personal Projects**  
+
+### BisiAgent007 (Personal Project)
+
+* Created an advanced intelligent coding assistant seamlessly integrated with VS Code, inspired by Cursor and powered by GPT-4o and sophisticated Retrieval-Augmented Generation (RAG) technologies.
+* Enabled intuitive, semantic querying of codebases, automatic file edits, precise code suggestions, and direct shell command execution, streamlining complex development tasks.
+* Streamlined developer workflows, reducing manual effort.
+* [Coding Assistant](https://github.com/Blackhand01/BisiAgent007)
 
 ### **PostGenius**  
 - **Description:** An AI-powered application that uses Retrieval-Augmented Generation (RAG) techniques to create multimedia content, including text posts, images, memes, and videos, based on news articles. Designed for social media management, marketing, and content creation.  
