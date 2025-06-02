@@ -47,7 +47,19 @@ Experienced software developer specializing in machine learning and natural lang
 - **Results:**
   -  Enabled intuitive, semantic querying of codebases, automatic file edits, precise code suggestions, and direct shell command execution, streamlining complex development tasks.
   -  Streamlined developer workflows, reducing manual effort.
- - **Repository:**  [Coding Assistant](https://github.com/Blackhand01/BisiAgent007)
+ - **Repository:**  [BisiAgent007](https://github.com/Blackhand01/BisiAgent007)
+
+### **OnlyFly (HackUPC 2025)**
+
+* **Description:** An AI-powered home-exchange platform designed to help users travel the world by eliminating accommodation costs.
+* **🏆 Achievement:** **Ranked 4th out of 150+ international teams in the Skyscanner challenge.**
+* **Technologies Used:**
+  * **AI & Backend:** Python, OpenAI API, Skyscanner API, Revolut API
+  * **Key Features:** intelligent matching based on preferences, personalities, and interests; flight suggestions; secure payments; sustainability insights.
+* **Results:**
+  * Delivered a functional MVP in 36 hours, enabling seamless booking, payment, and user experience.
+  * Promoted affordable, personalized, and sustainable travel experiences.
+ - **Repository:**  [OnlyFly](https://github.com/Blackhand01/HackUPC-Spring2025)
 
 ### **PostGenius**  
 - **Description:** An AI-powered application that uses Retrieval-Augmented Generation (RAG) techniques to create multimedia content, including text posts, images, memes, and videos, based on news articles. Designed for social media management, marketing, and content creation.  
