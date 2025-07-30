@@ -105,14 +105,14 @@ Experienced software developer specializing in machine learning and natural lang
 * **Vision:** Zero-label learning for personalized oncology.
 * **Repository:** [wsi-ssrl-rcc\_project](https://github.com/Blackhand01/wsi-ssrl-rcc_project.git)
 
-### **Affordance 3D Highlighter**
+### **Affordance 3D Highlighting**
 
 * **Description:** Inspired by **3D Highlighter (CVPR 2023)** and CLIP, this project explores localizing functional regions ("affordances") on 3D objects — without supervision, using only language prompts.
 * **Pipeline:** From mesh rendering to real-world point clouds, aiming for zero-shot affordance reasoning in robotics.
 * **Techniques:** Differentiable renderers (PyTorch3D, Open3D), CLIP-driven neural fields, benchmarking on **AffordanceNet** (mIOU evaluations).
 * **Status:** In progress — bridging embodied AI and language-based planning.
 * **Vision:** Compositional 3D intelligence grounded in language.
-* **Repository:** [Affordance 3d\_Highlighting\](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
+* **Repository:** [Affordance 3D Highlighting](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
 
 ---
 
