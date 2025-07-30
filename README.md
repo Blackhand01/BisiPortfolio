@@ -35,7 +35,19 @@ Experienced software developer specializing in machine learning and natural lang
 - **Results:**  
   - **Reduced data preprocessing time by 40%** through automation.  
   - Improved data consistency and reliability, facilitating more accurate model training and evaluation.  
- - **Repository:** [OpenAI API Framework](https://github.com/Blackhand01/mlops_finetuning_framework)  
+ - **Repository:** [OpenAI API Framework](https://github.com/Blackhand01/mlops_finetuning_framework)
+
+### **CLI-Based Spring Parameter Extraction**
+
+* **Description:** Developed a CLI tool (`main.py`) leveraging the OpenAI Responses API to extract material and geometric parameters from CAD/PDF spring drawings, with dynamic JSON Schema generation and base64 encoding.
+* **Technologies Used:** Python, OpenAI Responses API, base64, JSON Schema
+* **Responsibilities:**
+
+  * Defined structured prompt sequences for type, material, dimensional, and geometry-specific fields.
+  * Implemented detailed token usage and cost logging for each extraction.
+* **Results:**
+  * Fully automated what was previously a manual extraction process, producing reliable JSON outputs ready for downstream integration.
+
 ---
 
 ## **Personal Projects**  
@@ -84,6 +96,23 @@ Experienced software developer specializing in machine learning and natural lang
   - Achieved benchmark-level accuracy, highlighting the efficiency of ViT on large-scale datasets.  
   - Demonstrated superior performance in image classification tasks compared to traditional convolutional networks.  
 - **Repository:** [ViT](https://github.com/Blackhand01/Vision-Transformer)  
+
+### **Self-Supervised Learning for Cancer Subtype Discovery**
+
+* **Description:** Investigating how **Self-Supervised Learning** (SimCLR, MoCo, Rotation, JEPA) can extract meaningful representations from **histopathological Whole Slide Images (WSIs)** to automatically differentiate subtypes of Renal Cell Carcinoma (RCC) without manual annotations.
+* **Focus:** Task-agnostic generalization across multiple folds, patient-level voting, transfer probes.
+* **Status:** In progress — exploring pretext tasks’ impact on class separability in low-label regimes for scalable cancer diagnosis and biomarker discovery.
+* **Vision:** Zero-label learning for personalized oncology.
+* **Repository:** [wsi-ssrl-rcc\_project](https://github.com/Blackhand01/wsi-ssrl-rcc_project.git)
+
+### **Affordance 3D Highlighter**
+
+* **Description:** Inspired by **3D Highlighter (CVPR 2023)** and CLIP, this project explores localizing functional regions ("affordances") on 3D objects — without supervision, using only language prompts.
+* **Pipeline:** From mesh rendering to real-world point clouds, aiming for zero-shot affordance reasoning in robotics.
+* **Techniques:** Differentiable renderers (PyTorch3D, Open3D), CLIP-driven neural fields, benchmarking on **AffordanceNet** (mIOU evaluations).
+* **Status:** In progress — bridging embodied AI and language-based planning.
+* **Vision:** Compositional 3D intelligence grounded in language.
+* **Repository:** [Affordance 3d\_Highlighting\](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
 
 ---
 
