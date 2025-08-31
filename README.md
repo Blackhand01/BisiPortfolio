@@ -129,10 +129,10 @@ Experienced software developer specializing in machine learning and natural lang
 
 - **Master of Science in Computer Science**  
   - Politecnico di Torino  
-  - April 2024 – December 2025  
+  - March 2024 – March 2026  
 - **Bachelor of Science in Computer Science**  
   - Politecnico di Torino  
-  - October 2020 – April 2024  
+  - October 2020 – March 2024  
 
 ---
 
