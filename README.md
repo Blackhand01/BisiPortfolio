@@ -51,7 +51,7 @@ Created a **RAG-based multimedia generator** that turns news into contextual pos
 Zero-shot localization of functional 3D regions from language prompts, inspired by CLIP and **3D Highlighter (CVPR 2023)**. Bridging embodied AI and natural language reasoning for robotics.
 **Repository:** [Affordance 3D Highlighting](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
 
-### **Self-Supervised Learning for RCC Subtype Discovery**
+### **Self-Supervised Learning for RCC Classification**
 
 Exploring **SSL methods** (MoCo v3, I-JEPA, DINO v3, iBot) for unsupervised representation learning on histopathology WSIs to identify renal cell carcinoma subtypes without labels.
 **Repository:** [wsi-ssrl-rcc_project](https://github.com/Blackhand01/wsi-ssrl-rcc_project.git)
