@@ -26,11 +26,13 @@ I integrated LLM and AI systems into precision-mechanics workflows from model se
 
 Developed an edge-based “Instagram for museums” using **Arduino Nicla Vision** to measure visitor attention without recording video. The prototype quantifies dwell time and engagement while preserving privacy. Built the full MVP in ~24 hours and iterated for 32.
 **Focus:** Embedded AI, perception-to-signal design, privacy-safe metrics.
+**Repository:** [MuseINO](https://github.com/Blackhand01/TinyHack2025)
 
 ### **Multi-Agent Advisor System (ETH AI Center - UBS track, Swiss AI Weeks 2025)**
 
 Co-built a multi agent dialog-to-action prototype for financial advisory tasks. Two lightweight models classify client–advisor intents, while a “judge” model arbitrates disagreements and triggers human fallback.
 **Focus:** Safe tool-use, confidence arbitration, agentic reasoning.
+**Repository:** [MAAS](https://github.com/Blackhand01/ZurichHackathon2025)
 
 ### **OnlyFly (HackUPC 2025)**
 
