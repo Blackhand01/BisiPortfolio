@@ -22,6 +22,12 @@ I integrated LLM and AI systems into precision-mechanics workflows from model se
 
 ## **Selected Projects**
 
+### **Embedded Vision Trade-offs on Arduino Nicla Vision**
+
+The project exposes the real trade-offs between accuracy, latency, RAM, and Flash on the Arduino Nicla Vision by coupling firmware-level measurements with protocol-driven evaluation. It demonstrates why accuracy-only comparisons are misleading on embedded targets and provides a systematic methodology to surface activation peaks, memory bottlenecks, and deployment instability through end-to-end, hardware-in-the-loop experimentation.
+**Focus:** Reproducible, on-device benchmarking of image classification models under strict microcontroller constraints. 
+**Repository:** [https://github.com/Blackhand01/embedded-vision-tradeoffs-m7](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7)
+
 ### **MuseINO (Tiny Hack Torino, Italian Tech Week 2025)**
 
 Developed an edge-based “Instagram for museums” using **Arduino Nicla Vision** to measure visitor attention without recording video. The prototype quantifies dwell time and engagement while preserving privacy. Built the full MVP in ~24 hours and iterated for 32.
@@ -48,16 +54,6 @@ Created a **RAG-based multimedia generator** that turns news into contextual pos
 **Focus:** Retrieval Augmented Generation, grounding, hallucination control.
 **Repository:** [PostGenius](https://github.com/Blackhand01/PostGenius)
 
-### **Affordance 3D Highlighting**
-
-Zero-shot localization of functional 3D regions from language prompts, inspired by CLIP and **3D Highlighter (CVPR 2023)**. Bridging embodied AI and natural language reasoning for robotics.
-**Repository:** [Affordance 3D Highlighting](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
-
-### **Self-Supervised Learning for RCC Classification**
-
-Exploring **SSL methods** (MoCo v3, I-JEPA, DINO v3, iBot) for unsupervised representation learning on histopathology WSIs to identify renal cell carcinoma subtypes without labels.
-**Repository:** [wsi-ssrl-rcc_project](https://github.com/Blackhand01/wsi-ssrl-rcc_project.git)
-
 ### **Vision Transformer (ViT) Implementation**
 
 Re-implemented and optimized ViT on CIFAR-10 and ImageNet, achieving benchmark-level accuracy and demonstrating superior scalability over CNN baselines.
@@ -67,6 +63,20 @@ Re-implemented and optimized ViT on CIFAR-10 and ImageNet, achieving benchmark-l
 
 A personal LLM-powered coding assistant with **Retrieval-Augmented Generation**, semantic code search, and auto-edit features inspired by Cursor.
 **Repository:** [BisiAgent007](https://github.com/Blackhand01/BisiAgent007)
+
+---
+
+## Research / Exploration (Public)
+
+### **Affordance 3D Highlighting**
+
+Zero-shot localization of functional 3D regions from language prompts, inspired by CLIP and **3D Highlighter (CVPR 2023)**. Bridging embodied AI and natural language reasoning for robotics.
+**Repository:** [Affordance 3D Highlighting](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
+
+### **Self-Supervised Learning for RCC Classification**
+
+Exploring **SSL methods** (MoCo v3, I-JEPA, DINO v3, iBot) for unsupervised representation learning on histopathology WSIs to identify renal cell carcinoma subtypes without labels.
+**Repository:** [wsi-ssrl-rcc_project](https://github.com/Blackhand01/wsi-ssrl-rcc_project.git)
 
 ---
 
