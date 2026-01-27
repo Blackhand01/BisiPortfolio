@@ -25,18 +25,21 @@ I integrated LLM and AI systems into precision-mechanics workflows from model se
 ### **Embedded Vision Trade-offs on Arduino Nicla Vision**
 
 The project exposes the real trade-offs between accuracy, latency, RAM, and Flash on the Arduino Nicla Vision by coupling firmware-level measurements with protocol-driven evaluation. It demonstrates why accuracy-only comparisons are misleading on embedded targets and provides a systematic methodology to surface activation peaks, memory bottlenecks, and deployment instability through end-to-end, hardware-in-the-loop experimentation.
+
 **Focus:** Reproducible, on-device benchmarking of image classification models under strict microcontroller constraints. 
 **Repository:** [https://github.com/Blackhand01/embedded-vision-tradeoffs-m7](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7)
 
 ### **MuseINO (Tiny Hack Torino, Italian Tech Week 2025)**
 
 Developed an edge-based “Instagram for museums” using **Arduino Nicla Vision** to measure visitor attention without recording video. The prototype quantifies dwell time and engagement while preserving privacy. Built the full MVP in ~24 hours and iterated for 32.
+
 **Focus:** Embedded AI, perception-to-signal design, privacy-safe metrics.
 **Repository:** [MuseINO](https://github.com/Blackhand01/TinyHack2025)
 
 ### **Multi-Agent Advisor System (ETH AI Center - UBS track, Swiss AI Weeks 2025)**
 
 Co-built a multi agent dialog-to-action prototype for financial advisory tasks. Two lightweight models classify client–advisor intents, while a “judge” model arbitrates disagreements and triggers human fallback.
+
 **Focus:** Safe tool-use, confidence arbitration, agentic reasoning.
 **Repository:** [MAAS](https://github.com/Blackhand01/ZurichHackathon2025)
 
@@ -44,6 +47,7 @@ Co-built a multi agent dialog-to-action prototype for financial advisory tasks. 
 
 🏆 **4th place out of 150+ international teams (Skyscanner Challenge)**
 Built an AI-powered home-exchange platform that matches travelers based on preferences and optimizes trip costs using Skyscanner and Revolut APIs. Delivered a functional MVP in 36 hours.
+
 **Focus:** Recommender systems, backend reliability, sustainable AI design.
 **Repository:** [OnlyFly](https://github.com/Blackhand01/HackUPC-Spring2025)
 
@@ -51,6 +55,7 @@ Built an AI-powered home-exchange platform that matches travelers based on prefe
 
 🏆 **7th place out of 4,500 participants**
 Created a **RAG-based multimedia generator** that turns news into contextual posts, images, and videos using FastAPI and OpenAI/Vectara APIs. Designed for social media and newsroom automation.
+
 **Focus:** Retrieval Augmented Generation, grounding, hallucination control.
 **Repository:** [PostGenius](https://github.com/Blackhand01/PostGenius)
 
