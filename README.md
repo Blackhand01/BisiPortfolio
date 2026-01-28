@@ -105,5 +105,5 @@ Exploring **SSL methods** (MoCo v3, I-JEPA, DINO v3, iBot) for unsupervised repr
 ## **Contact**
 
 📧 **Email:** [bisiwork01@gmail.com](mailto:bisiwork01@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/stefanobisignano](https://linkedin.com/in/stefanobisignano)
+🔗 **LinkedIn:** [linkedin.com/in/stefanobisignano](https://www.linkedin.com/in/stefano-roy-bisignano-9100291b2/)
 
