@@ -51,7 +51,7 @@ Built an AI-powered home-exchange platform that matches travelers based on prefe
 **Focus:** Recommender systems, backend reliability, sustainable AI design.
 **Repository:** [OnlyFly](https://github.com/Blackhand01/HackUPC-Spring2025)
 
-### **PostGenius (GenAI.Works 2024)**
+### **PostGenius (GenAI.Works Hack 2024)**
 
 🏆 **7th place out of 4,500 participants**
 Created a **RAG-based multimedia generator** that turns news into contextual posts, images, and videos using FastAPI and OpenAI/Vectara APIs. Designed for social media and newsroom automation.
@@ -59,29 +59,29 @@ Created a **RAG-based multimedia generator** that turns news into contextual pos
 **Focus:** Retrieval Augmented Generation, grounding, hallucination control.
 **Repository:** [PostGenius](https://github.com/Blackhand01/PostGenius)
 
-### **Vision Transformer (ViT) Implementation**
+### **Vision Transformer (ViT) Implementation (2024)**
 
 Re-implemented and optimized ViT on CIFAR-10 and ImageNet, achieving benchmark-level accuracy and demonstrating superior scalability over CNN baselines.
 **Repository:** [ViT](https://github.com/Blackhand01/Vision-Transformer)
 
-### **BisiAgent007**
+### **BisiAgent007 (2024)**
 
 A personal LLM-powered coding assistant with **Retrieval-Augmented Generation**, semantic code search, and auto-edit features inspired by Cursor.
 **Repository:** [BisiAgent007](https://github.com/Blackhand01/BisiAgent007)
 
 ---
 
-## Research / Exploration (Public)
+## Research
 
-### **Affordance 3D Highlighting**
+### **Affordance 3D Highlighting (2024)**
 
 Zero-shot localization of functional 3D regions from language prompts, inspired by CLIP and **3D Highlighter (CVPR 2023)**. Bridging embodied AI and natural language reasoning for robotics.
 **Repository:** [Affordance 3D Highlighting](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
 
-### **Self-Supervised Learning for RCC Classification**
+### **Self-Supervised Learning for RCC Classification (2025)**
 
 Exploring **SSL methods** (MoCo v3, I-JEPA, DINO v3, iBot) for unsupervised representation learning on histopathology WSIs to identify renal cell carcinoma subtypes without labels and concept-spatial XAI inspired by SALF-CBM.
-**Repository:** [ssl-rcc](https://github.com/Blackhand01/RCC-SSL)
+**Repository:** [Self-Supervised Learning for RCC Classification](https://github.com/Blackhand01/RCC-SSL)
 
 ---
 
