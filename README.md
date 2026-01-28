@@ -15,7 +15,7 @@ Recent work includes edge-based perception systems, multi-agent reasoning, and l
 I integrated LLM and AI systems into precision-mechanics workflows from model selection and domain adaptation to deployment, observability, and cost/latency tuning. I led a multilingual translation pipeline with fine-tuned models across **20 languages**, reaching a **~53% touchless rate**; this cut total human effort from **~8,000 hours** to **~2,350 hours** (about **71% less**) for the same volume and produced an estimated **~76% cost reduction** for linguistic work. I migrated an agentic business assistant to the Responses API with tool calling, monitoring, and tracing for reliable operations, and I built an LLM+vision extraction flow that reads spring drawings and PDFs with per-field validation and human-in-the-loop review to auto-populate manufacturing parameters.
 
 
-**Technologies:** Python, PyTorch, OpenAI API, FastAPI, Docker, Git, BLEU/ROUGE evaluation.
+**Technologies:** Python, PyTorch, OpenAI API, LLM, AI Agents, MLOps, Fine Tuning, Computer Vision.
 **Repository:** [Simplex Rapid](https://github.com/Simplex-Rapid)
 
 ---
@@ -31,14 +31,14 @@ The project exposes the real trade-offs between accuracy, latency, RAM, and Flas
 
 ### **MuseINO (Tiny Hack Torino, Italian Tech Week 2025)**
 
-Developed an edge-based “Instagram for museums” using **Arduino Nicla Vision** to measure visitor attention without recording video. The prototype quantifies dwell time and engagement while preserving privacy. Built the full MVP in ~24 hours and iterated for 32.
+Developed an edge-based “Instagram for museums” using Arduino Nicla Vision to measure visitor attention without recording video. The prototype quantifies dwell time and engagement while preserving privacy. Built the full MVP in ~24 hours and iterated for 32.
 
 **Focus:** Embedded AI, perception-to-signal design, privacy-safe metrics.
 **Repository:** [MuseINO](https://github.com/Blackhand01/TinyHack2025)
 
 ### **Multi-Agent Advisor System (ETH AI Center - UBS track, Swiss AI Weeks 2025)**
 
-Co-built a multi agent dialog-to-action prototype for financial advisory tasks. Two lightweight models classify client–advisor intents, while a “judge” model arbitrates disagreements and triggers human fallback.
+Co-built a multi AI agent dialog-to-action prototype for financial advisory tasks with Apertus-8B and GPT-4o as LLMs. Two lightweight models classify client–advisor intents, while a “judge” model arbitrates disagreements and triggers human fallback.
 
 **Focus:** Safe tool-use, confidence arbitration, agentic reasoning.
 **Repository:** [MAAS](https://github.com/Blackhand01/ZurichHackathon2025)
@@ -80,7 +80,7 @@ Zero-shot localization of functional 3D regions from language prompts, inspired 
 
 ### **Self-Supervised Learning for RCC Classification**
 
-Exploring **SSL methods** (MoCo v3, I-JEPA, DINO v3, iBot) for unsupervised representation learning on histopathology WSIs to identify renal cell carcinoma subtypes without labels.
+Exploring **SSL methods** (MoCo v3, I-JEPA, DINO v3, iBot) for unsupervised representation learning on histopathology WSIs to identify renal cell carcinoma subtypes without labels and concept-spatial XAI inspired by SALF-CBM.
 **Repository:** [ssl-rcc](https://github.com/Blackhand01/RCC-SSL)
 
 ---
