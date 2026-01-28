@@ -81,7 +81,7 @@ Zero-shot localization of functional 3D regions from language prompts, inspired 
 ### **Self-Supervised Learning for RCC Classification**
 
 Exploring **SSL methods** (MoCo v3, I-JEPA, DINO v3, iBot) for unsupervised representation learning on histopathology WSIs to identify renal cell carcinoma subtypes without labels.
-**Repository:** [wsi-ssrl-rcc_project](https://github.com/Blackhand01/wsi-ssrl-rcc_project.git)
+**Repository:** [ssl-rcc](https://github.com/Blackhand01/RCC-SSL)
 
 ---
 
