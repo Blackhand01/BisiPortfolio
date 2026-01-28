@@ -16,7 +16,7 @@ I integrated LLM and AI systems into precision-mechanics workflows from model se
 
 
 **Technologies:** Python, PyTorch, OpenAI API, FastAPI, Docker, Git, BLEU/ROUGE evaluation.
-**Repository:** [OpenAI API Framework](https://github.com/Blackhand01/mlops_finetuning_framework)
+**Repository:** [Simplex Rapid](https://github.com/Simplex-Rapid)
 
 ---
 
@@ -27,7 +27,7 @@ I integrated LLM and AI systems into precision-mechanics workflows from model se
 The project exposes the real trade-offs between accuracy, latency, RAM, and Flash on the Arduino Nicla Vision by coupling firmware-level measurements with protocol-driven evaluation. It demonstrates why accuracy-only comparisons are misleading on embedded targets and provides a systematic methodology to surface activation peaks, memory bottlenecks, and deployment instability through end-to-end, hardware-in-the-loop experimentation.
 
 **Focus:** Reproducible, on-device benchmarking of image classification models under strict microcontroller constraints. 
-**Repository:** [https://github.com/Blackhand01/embedded-vision-tradeoffs-m7](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7)
+**Repository:** [EmbVision](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7)
 
 ### **MuseINO (Tiny Hack Torino, Italian Tech Week 2025)**
 
