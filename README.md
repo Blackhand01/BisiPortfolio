@@ -10,7 +10,7 @@ Recent work includes edge-based perception systems, multi-agent reasoning, and l
 
 ## **Work Experience**
 
-### **ML Engineer — Simplex Rapid (11/2024 - 10/2025, Milan)**
+### **ML Engineer — Simplex Rapid (11/2023 - 10/2025, Milan)**
 
 I integrated LLM and AI systems into precision-mechanics workflows from model selection and domain adaptation to deployment, observability, and cost/latency tuning. I led a multilingual translation pipeline with fine-tuned models across **20 languages**, reaching a **~53% touchless rate**; this cut total human effort from **~8,000 hours** to **~2,350 hours** (about **71% less**) for the same volume and produced an estimated **~76% cost reduction** for linguistic work. I migrated an agentic business assistant to the Responses API with tool calling, monitoring, and tracing for reliable operations, and I built an LLM+vision extraction flow that reads spring drawings and PDFs with per-field validation and human-in-the-loop review to auto-populate manufacturing parameters.
 
