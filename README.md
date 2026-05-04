@@ -19,7 +19,21 @@ I integrated LLM and AI systems into precision-mechanics workflows from model se
 
 ---
 
-## **Selected Projects**
+## Research
+
+### **SSL for RCC Classification Research (2026)**
+
+Preliminary academic phase of a self-supervised computational pathology project completed with **30/30 with honors**. Manuscript writing and follow-up work with pathologists are in progress; code, metrics, dataset details, and implementation choices remain private until the publication path and IP review are mature.
+
+### **Affordance 3D Highlighting (2025)**
+
+Zero-shot localization of functional 3D regions from language prompts, inspired by CLIP and **3D Highlighter (CVPR 2023)**. Bridging embodied AI and natural language reasoning for robotics.
+
+- **Repository:** [Affordance 3D Highlighting](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
+
+---
+
+## **Hackathon & Projects**
 
 ### **Embedded Vision Trade-offs on Arduino Nicla Vision**
 
@@ -69,20 +83,6 @@ Re-implemented and optimized ViT on CIFAR-10 and ImageNet, achieving benchmark-l
 A personal LLM-powered coding assistant with **Retrieval-Augmented Generation**, semantic code search, and auto-edit features inspired by Cursor.
 
 - **Repository:** [BisiAgent007](https://github.com/Blackhand01/BisiAgent007)
-
----
-
-## Research
-
-### **Affordance 3D Highlighting (2025)**
-
-Zero-shot localization of functional 3D regions from language prompts, inspired by CLIP and **3D Highlighter (CVPR 2023)**. Bridging embodied AI and natural language reasoning for robotics.
-
-- **Repository:** [Affordance 3D Highlighting](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
-
-### **Privacy-Aware Medical AI Research (2025)**
-
-Preliminary academic phase of a self-supervised computational pathology project completed with **30/30 with honors**. Manuscript writing and follow-up work with pathologists are in progress; code, metrics, dataset details, and implementation choices remain private until the publication path and IP review are mature.
 
 ---
 
