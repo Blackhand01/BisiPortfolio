@@ -80,11 +80,9 @@ Zero-shot localization of functional 3D regions from language prompts, inspired 
 
 - **Repository:** [Affordance 3D Highlighting](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
 
-### **Self-Supervised Learning for RCC Classification (2025)**
+### **Privacy-Aware Medical AI Research (2025)**
 
-Exploring **SSL methods** (MoCo v3, I-JEPA, DINO v3, iBot) for unsupervised representation learning on histopathology WSIs to identify renal cell carcinoma subtypes without labels and concept-spatial XAI inspired by SALF-CBM.
-
-- **Repository:** [Self-Supervised Learning for RCC Classification](https://github.com/Blackhand01/RCC-SSL)
+Preliminary academic phase of a self-supervised computational pathology project completed with **30/30 with honors**. Manuscript writing and follow-up work with pathologists are in progress; code, metrics, dataset details, and implementation choices remain private until the publication path and IP review are mature.
 
 ---
 
