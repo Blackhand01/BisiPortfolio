@@ -23,7 +23,7 @@ I integrated LLM and AI systems into precision-mechanics workflows from model se
 
 ### **SSL for RCC Classification Research (2026)**
 
-Preliminary academic phase of a self-supervised computational pathology project completed with **30/30 with honors**. Manuscript writing and follow-up work with pathologists are in progress; code, metrics, dataset details, and implementation choices remain private until the publication path and IP review are mature.
+Preliminary academic phase of a self-supervised computational pathology project completed with **30/30 with honors**. Paper writing in progress; code, metrics, dataset details, and implementation choices remain private until the **publication**.
 
 ### **Affordance 3D Highlighting (2025)**
 
