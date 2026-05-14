@@ -25,7 +25,7 @@ I integrated LLM and AI systems into precision-mechanics workflows from model se
 
 Preliminary academic phase of a self-supervised computational pathology project completed with **30/30 with honors**. Paper writing in progress; code, metrics, dataset details, and implementation choices remain private until the **publication**.
 
-### **Humanoid-Motion-Diffusion (2026)**
+### **Humanoid Motion Diffusion (2026)**
 
 Research-grade pipeline for **audio-conditioned whole-body humanoid trajectory synthesis** using DDPM diffusion transformers over 24-joint SMPL pose sequences. The system combines AIST++ motion data, audio feature alignment, Temporal Cross-Attention, classifier-free guidance, EMA inference, and automated biomechanical evaluation for smoothness, joint-limit violations, beat alignment, and self-collision risk.
 
