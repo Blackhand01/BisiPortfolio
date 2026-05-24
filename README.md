@@ -2,9 +2,9 @@
 
 ## **Overview**
 
-Machine Learning Engineer specialized in **LLMs, multimodal learning, generative models, and robotics-oriented AI systems**.  
+Machine Learning Engineer specialized in **LLMs, multimodal learning, generative models, edge autonomy, and robotics-oriented AI systems**.  
 I build fine-tuning and evaluation pipelines for large models, automation frameworks for data and model ops, and rapid prototypes that turn research into functional products.  
-Recent work includes edge-based perception systems, multi-agent reasoning, audio-conditioned humanoid motion generation, and language-conditioned control. Passionate about making AI systems that reason, act, and recover under real-world constraints.
+Recent work includes deterministic VLA control loops, edge-based perception systems, multi-agent reasoning, audio-conditioned humanoid motion generation, and language-conditioned control. Passionate about making AI systems that reason, act, and recover under real-world constraints.
 
 ---
 
@@ -42,6 +42,16 @@ Zero-shot localization of functional 3D regions from language prompts, inspired 
 ---
 
 ## **Hackathon & Projects**
+
+### **Edge-VLA-Micro: Deterministic Vision-Language-Action Stack for Edge Autonomy**
+
+Neuro-symbolic FPV autonomy stack that connects voice intent, FPV vision, Qwen2-VL reasoning, deterministic safety validation, and MAVSDK/PX4 actuation. The system was validated in PX4 SITL with jMAVSim and QGroundControl, and includes asynchronous blackbox telemetry for post-mortem analysis of the exact prompt, frame, raw VLM response, parsed command, safety decision, and kinematic state.
+
+- **Focus:** Edge autonomy, VLM-to-action orchestration, deterministic safety guardrails, real-time observability
+- **Safety design:** OpenCV HSV hard-guard + strict Pydantic command schema; visual target hallucinations are overridden into HOLD before actuation
+- **Performance:** Qwen2-VL 4-bit full-resolution baseline `TTFT 1236.2 ms`; optimized 224x224 center-crop path `TTFT 424.8 ms`; **65.6% lower TTFT** with unchanged decode throughput
+- **Stack:** Python, asyncio, MLX-VLM, Qwen2-VL, OpenCV, MAVSDK, PX4 SITL, faster-whisper, Pydantic
+- **Repository:** [Edge-VLA-Micro](https://github.com/Blackhand01/Edge-VLA-Micro)
 
 ### **Embedded Vision Trade-offs on Arduino Nicla Vision**
 
