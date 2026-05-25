@@ -23,7 +23,7 @@ My academic and professional trajectory has been shaped by resilience, rapid ada
 
 To complete my BSc, I chose to invest extra time into a hands-on internship (Nov 2023 – Feb 2024) as a **Junior AI Engineer at Sentric**, a fast-scaled startup managing millions of data points for agentic commerce pipelines. This experience shifted my career vector. 
 
-In May 2024, I was brought into **Simplex Rapid**—an international heavy-industry manufacturer of precision CNC machinery, as an **ML Engineer** to architect their AI infrastructure from scratch, deploying production-grade multimodal and vision-language automation. 
+In May 2024, I was brought into **Simplex Rapid**, an international heavy-industry manufacturer of precision CNC machinery, as an **ML Engineer** to architect their AI infrastructure from scratch, deploying production-grade multimodal and vision-language automation. 
 
 During this period, I pushed my capacity for extreme time compartmentalization to its absolute limit:
 * **September 2024:** While actively managing production-level AI pipelines under industrial constraints, I isolated my focus to study and clear **4 core Master's exams in exactly 14 days** without delaying corporate shipping timelines.
