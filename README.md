@@ -37,7 +37,7 @@ I move fast, learn down to the bare metal, and view high-pressure environments a
 
 ## 💼 Professional Experience
 
-### **AI / LLMOps Engineer (Technical Lead) — Simplex Rapid** *(05/2024 - 10/2025)*
+### **ML Engineer (Technical Lead) — Simplex Rapid** *(05/2024 - 10/2025)*
 Architected and deployed end-to-end LLM and vision-language systems for a global leader in precision CNC machinery, operating under strict industrial constraints. 
 * **Multilingual Pipeline:** Designed a fine-tuned translation pipeline across **20 languages**, achieving a **~53% touchless rate**. Reduced total human effort from **~8,000 to ~2,350 hours (71% reduction)** and cut linguistic processing costs by **~76%**.
 * **Vision-to-Manufacturing:** Built an LLM+vision extraction flow that reads complex spring engineering drawings/PDFs with per-field validation and a human-in-the-loop review, automating the population of manufacturing parameters.
@@ -45,7 +45,7 @@ Architected and deployed end-to-end LLM and vision-language systems for a global
 * **Stack:** Python, PyTorch, OpenAI APIs, VLM, Agentic Workflows, MLOps.
 
 ### **Junior AI Engineer (Intern) — Sentric** *(11/2023 - 02/2024)*
-* Developed backend infrastructure and data pipelines for agentic commerce. The high-execution speed demonstrated here led directly to my recruitment as ML Engineer at Simplex Rapid.
+* Focused on applied R&D for large-scale e-commerce datasets. Engineered backend data pipelines and automated complex data cleaning processes using LLM integrations. The high execution speed and problem-solving demonstrated here led directly to my recruitment as ML Engineer at Simplex Rapid.
 
 ---
 
