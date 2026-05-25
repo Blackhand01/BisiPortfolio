@@ -1,127 +1,111 @@
 # **BisiPortfolio**
 
-## **Overview**
+## 🛠️ Philosophy & Background
 
-Machine Learning Engineer specialized in **LLMs, multimodal learning, generative models, edge autonomy, and robotics-oriented AI systems**.  
-I build fine-tuning and evaluation pipelines for large models, automation frameworks for data and model ops, and rapid prototypes that turn research into functional products.  
-Recent work includes deterministic VLA control loops, edge-based perception systems, multi-agent reasoning, audio-conditioned humanoid motion generation, and language-conditioned control. Passionate about making AI systems that reason, act, and recover under real-world constraints.
+### Dive down to the atom. Execute without rest.
+I am an AI Systems Engineer who doesn't rely on quick talent; I rely on obsessive perseverance and strict technical integrity. I build following a first-principles approach: when a complex system catches my attention, I dive deep into its core mechanics, down to the bare metal.
 
----
-
-## **Work Experience**
-
-### **ML Engineer — Simplex Rapid (11/2023 - 10/2025, Milan)**
-
-I integrated LLM and AI systems into precision-mechanics workflows from model selection and domain adaptation to deployment, observability, and cost/latency tuning. I led a multilingual translation pipeline with fine-tuned models across **20 languages**, reaching a **~53% touchless rate**; this cut total human effort from **~8,000 hours** to **~2,350 hours** (about **71% less**) for the same volume and produced an estimated **~76% cost reduction** for linguistic work. I migrated an agentic business assistant to the Responses API with tool calling, monitoring, and tracing for reliable operations, and I built an LLM+vision extraction flow that reads spring drawings and PDFs with per-field validation and human-in-the-loop review to auto-populate manufacturing parameters.
-
-- **Technologies:** Python, PyTorch, OpenAI API, LLM, AI Agents, MLOps, Fine Tuning, Computer Vision  
-- **Repository:** [Simplex Rapid](https://github.com/Simplex-Rapid)
+My core focus is bridging the gap between advanced deep learning research (Self-Supervised Learning, Vision Transformers) and real-world Physical AI. This means implementing rigorous LLMOps to optimize pipelines for minimal latency, high throughput, and stable automation under strict computational and industrial hardware constraints.
 
 ---
 
-## Research
+### 📈 The Journey: Building a Self-Taught Engine
 
-### **SSL for RCC Classification Research (2026)**
+My academic and professional trajectory has been shaped by resilience, rapid adaptation, and extreme self-discipline.
 
-Preliminary academic phase of a self-supervised computational pathology project completed with **30/30 with honors**. Paper writing in progress; code, metrics, dataset details, and implementation choices remain private until the **publication**.
-
-### **Humanoid Motion Diffusion (2026)**
-
-Research-grade pipeline for **audio-conditioned whole-body humanoid trajectory synthesis** using DDPM diffusion transformers over 24-joint SMPL pose sequences. The system combines AIST++ motion data, audio feature alignment, Temporal Cross-Attention, classifier-free guidance, EMA inference, and automated biomechanical evaluation for smoothness, joint-limit violations, beat alignment, and self-collision risk.
-
-- **Focus:** Generative robotics, multimodal motion synthesis, Sim-to-Real trajectory validation
-- **Results:** Reduced Temporal Smoothness Index from `12.60` to `0.08` with EMA/CFG and dense 120-frame clips; final optimized metrics include JLVR `6.0%`, BAS `0.19`, and self-collision `0.0004`
-- **Repository:** [Humanoid-Motion-Diffusion](https://github.com/Blackhand01/Humanoid-Motion-Diffusion)
-
-### **Affordance 3D Highlighting (2025)**
-
-Zero-shot localization of functional 3D regions from language prompts, inspired by CLIP and **3D Highlighter (CVPR 2023)**. Bridging embodied AI and natural language reasoning for robotics.
-
-- **Repository:** [Affordance 3D Highlighting](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)
+* **The Turnaround:** I started my Computer Engineering BSc at Politecnico di Torino during the 2020 pandemic. Disoriented by remote learning and isolation, my first year was a failure—leaving me at the bottom of my peer group with only two passed exams. Refusing this poor results, I built an intensive, 100% self-taught methodology from my bedroom. 
+* **The Acceleration:** Once this internal engine clicked, my execution speed exploded. In the summer of 2023, I shattered the academic backlog by passing **7 hardcore engineering exams in just 3 months** (including core pillars like *Operating Systems*, *Computer Architecture*, and *Algorithms & Data Structures*). This momentum allowed me to overtake my peer group, graduate early, and jump straight into an AI & Data Analytics MEng by September 2023.
+* **Strategic Anticipation:** I cleared my first Master’s level courses (*Big Data Processing* and *Data Science*) in early February 2024, capitalizing on the winter exam session **before even formally receiving my Bachelor’s degree** in March 2024.
 
 ---
 
-## **Hackathon & Projects**
+### 🏭 From Startup to Industry: Compartmentalization & Core Metrics
 
-### **Edge-VLA-Micro: Deterministic Vision-Language-Action Stack for Edge Autonomy**
+To complete my BSc, I chose to invest extra time into a hands-on internship (Nov 2023 – Feb 2024) as a **Junior AI Engineer at Sentric**, a fast-scaled startup managing millions of data points for agentic commerce pipelines. This experience shifted my career vector. 
 
-Neuro-symbolic FPV autonomy stack that connects voice intent, FPV vision, Qwen2-VL reasoning, deterministic safety validation, and MAVSDK/PX4 actuation. The system was validated in PX4 SITL with jMAVSim and QGroundControl, and includes asynchronous blackbox telemetry for post-mortem analysis of the exact prompt, frame, raw VLM response, parsed command, safety decision, and kinematic state.
+In May 2024, I was brought into **Simplex Rapid**—an international heavy-industry manufacturer of precision CNC machinery, as an **ML Engineer** to architect their AI infrastructure from scratch, deploying production-grade multimodal and vision-language automation. 
 
-- **Focus:** Edge autonomy, VLM-to-action orchestration, deterministic safety guardrails, real-time observability
-- **Safety design:** OpenCV HSV hard-guard + strict Pydantic command schema; visual target hallucinations are overridden into HOLD before actuation
-- **Performance:** Qwen2-VL 4-bit full-resolution baseline `TTFT 1236.2 ms`; optimized 224x224 center-crop path `TTFT 424.8 ms`; **65.6% lower TTFT** with unchanged decode throughput
-- **Stack:** Python, asyncio, MLX-VLM, Qwen2-VL, OpenCV, MAVSDK, PX4 SITL, faster-whisper, Pydantic
-- **Repository:** [Edge-VLA-Micro](https://github.com/Blackhand01/Edge-VLA-Micro)
+During this period, I pushed my capacity for extreme time compartmentalization to its absolute limit:
+* **September 2024:** While actively managing production-level AI pipelines under industrial constraints, I isolated my focus to study and clear **4 core Master's exams in exactly 14 days** without delaying corporate shipping timelines.
+* **The Promotion:** Within a year, the systems I deployed successfully **reduced manual manufacturing effort by 71%**. Based on these results, in May 2025, I was promoted to **Technical Lead** and offered a permanent management relocation to Milan to scale AI across their entire production line.
 
-### **Embedded Vision Trade-offs on Arduino Nicla Vision**
+**I walked away from the offer.** I don't look for safe harbors or comfortable positions; I look for massive technical challenges. I allowed the contract to expire naturally to transition into world-class deep-tech ecosystems between Zurich and Silicon Valley. I sealed this chapter by scoring **30/30 cum laude in Machine Learning in Applications**, turning my final research project on Self-Supervised Learning into an ongoing international publication effort with pathology research centers in Paris, Lyon, and Nice.
 
-The project exposes the real trade-offs between accuracy, latency, RAM, and Flash on the Arduino Nicla Vision by coupling firmware-level measurements with protocol-driven evaluation. It demonstrates why accuracy-only comparisons are misleading on embedded targets and provides a systematic methodology to surface activation peaks, memory bottlenecks, and deployment instability through end-to-end, hardware-in-the-loop experimentation.
-
-- **Focus:** Reproducible, on-device benchmarking of image classification models under strict microcontroller constraints  
-- **Repository:** [EmbVision](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7)
-
-### **MuseINO (Tiny Hack Torino, Italian Tech Week 2025)**
-
-Developed an edge-based “Instagram for museums” using Arduino Nicla Vision to measure visitor attention without recording video. The prototype quantifies dwell time and engagement while preserving privacy. Built the full MVP in ~24 hours and iterated for 32.
-
-- **Focus:** Embedded AI, perception-to-signal design, privacy-safe metrics  
-- **Repository:** [MuseINO](https://github.com/Blackhand01/TinyHack2025)
-
-### **Multi-Agent Advisor System (ETH AI Center - UBS track, Swiss AI Weeks 2025)**
-
-Co-built a multi AI agent dialog-to-action prototype for financial advisory tasks with Apertus-8B and GPT-4o as LLMs. Two lightweight models classify client–advisor intents, while a “judge” model arbitrates disagreements and triggers human fallback.
-
-- **Focus:** Safe tool-use, confidence arbitration, agentic reasoning  
-- **Repository:** [MAAS](https://github.com/Blackhand01/ZurichHackathon2025)
-
-### **OnlyFly (HackUPC 2025)**
-
-🏆 **4th place out of 150+ international teams (Skyscanner Challenge)**  
-Built an AI-powered home-exchange platform that matches travelers based on preferences and optimizes trip costs using Skyscanner and Revolut APIs. Delivered a functional MVP in 36 hours.
-
-- **Focus:** Recommender systems, backend reliability, sustainable AI design  
-- **Repository:** [OnlyFly](https://github.com/Blackhand01/HackUPC-Spring2025)
-
-### **PostGenius (GenAI.Works Hack 2024)**
-
-🏆 **7th place out of 4,500 participants**  
-Created a **RAG-based multimedia generator** that turns news into contextual posts, images, and videos using FastAPI and OpenAI/Vectara APIs. Designed for social media and newsroom automation.
-
-- **Focus:** Retrieval Augmented Generation, grounding, hallucination control  
-- **Repository:** [PostGenius](https://github.com/Blackhand01/PostGenius)
-
-### **Vision Transformer (ViT) Implementation (2024)**
-
-Re-implemented and optimized ViT on CIFAR-10 and ImageNet, achieving benchmark-level accuracy and demonstrating superior scalability over CNN baselines.
-
-- **Repository:** [ViT](https://github.com/Blackhand01/Vision-Transformer)
-
-### **BisiAgent007 (2024)**
-
-A personal LLM-powered coding assistant with **Retrieval-Augmented Generation**, semantic code search, and auto-edit features inspired by Cursor.
-
-- **Repository:** [BisiAgent007](https://github.com/Blackhand01/BisiAgent007)
+I move fast, learn down to the bare metal, and view high-pressure environments as the ultimate catalyst for innovation.
 
 ---
 
-## **Skills**
+## 💼 Professional Experience
 
-- **Languages:** Python, C++, Rust, JavaScript, Java, SQL  
-- **Frameworks:** PyTorch, TensorFlow, Hugging Face, ROS2, Gazebo, Gymnasium, MuJoCo  
-- **AI & Systems:** Reinforcement Learning, Diffusion Models, Motion Generation, Fine-Tuning, RAG, Prompt Engineering, Multi-Agent Systems  
-- **DevOps:** Docker, Kubernetes, Git, CI/CD, Experiment Tracking, Model Versioning  
-- **Interests:** Robotics, NeuroAI, Self-Supervised Learning, Edge AI, Cognitive Modeling  
+### **AI / LLMOps Engineer (Technical Lead) — Simplex Rapid** *(05/2024 - 10/2025)*
+Architected and deployed end-to-end LLM and vision-language systems for a global leader in precision CNC machinery, operating under strict industrial constraints. 
+* **Multilingual Pipeline:** Designed a fine-tuned translation pipeline across **20 languages**, achieving a **~53% touchless rate**. Reduced total human effort from **~8,000 to ~2,350 hours (71% reduction)** and cut linguistic processing costs by **~76%**.
+* **Vision-to-Manufacturing:** Built an LLM+vision extraction flow that reads complex spring engineering drawings/PDFs with per-field validation and a human-in-the-loop review, automating the population of manufacturing parameters.
+* **Agentic Ops:** Migrated an internal business assistant to the Responses API with tool calling, implementing comprehensive monitoring and tracing for reliability and auditability.
+* **Stack:** Python, PyTorch, OpenAI APIs, VLM, Agentic Workflows, MLOps.
 
----
-
-## **Education**
-
-- **M.Sc. in Artificial Intelligence and Data Analytics**, Politecnico di Torino (2024–2026)  
-- **B.Sc. in Computer Engineering**, Politecnico di Torino (2020–2024)  
+### **Junior AI Engineer (Intern) — Sentric** *(11/2023 - 02/2024)*
+* Developed backend infrastructure and data pipelines for agentic commerce. The high-execution speed demonstrated here led directly to my recruitment as ML Engineer at Simplex Rapid.
 
 ---
 
-## **Contact**
+## 🔬 Applied Research
 
-- 📧 **Email:** [bisiwork01@gmail.com](mailto:bisiwork01@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/stefanobisignano](https://www.linkedin.com/in/stefano-roy-bisignano-9100291b2/)
+### **SSL for RCC Classification** *(2026)*
+* **Focus:** Self-Supervised Learning (SSL), Computational Pathology, Vision Transformers.
+* **Status:** Preliminary phase completed with **30/30 cum laude**. Ongoing international collaboration with pathology centers (Paris, Lyon, Nice) to transition the research into a formal publication. *(Code & dataset private pending publication).*
+
+### **[Humanoid Motion Diffusion](https://github.com/Blackhand01/Humanoid-Motion-Diffusion)** *(2026)*
+* **Focus:** Generative robotics, multimodal motion synthesis, Sim-to-Real trajectory validation.
+* **Architecture:** Audio-conditioned whole-body humanoid trajectory synthesis using DDPM diffusion transformers over 24-joint SMPL pose sequences (AIST++). 
+* **Metrics:** Dropped Temporal Smoothness Index from `12.60` to `0.08` utilizing EMA/CFG on dense 120-frame clips. Optimized deployment metrics include JLVR `6.0%`, BAS `0.19`, and self-collision risk at `0.0004`.
+
+### **[Affordance 3D Highlighting](https://github.com/Blackhand01/Affordance_Highlighting_Project_2024)** *(2025)*
+* **Focus:** Embodied AI, zero-shot 3D localization.
+* Bridged natural language reasoning with 3D spatial environments to zero-shot localize functional regions from language prompts, inspired by 3D Highlighter (CVPR 2023).
+
+---
+
+## 🚀 Edge Systems, Robotics & Hackathons
+
+### **[Edge-VLA-Micro: Deterministic VLA Stack for Edge Autonomy](https://github.com/Blackhand01/Edge-VLA-Micro)** *(2026)*
+A neuro-symbolic FPV autonomy stack connecting voice intent, FPV vision, Qwen2-VL reasoning, and deterministic safety validation into MAVSDK/PX4 actuation. 
+* **Safety & Hardware:** Visual target hallucinations are hard-guarded by OpenCV HSV filters and strict Pydantic command schemas, overriding fail-states into a `HOLD` command before actuation. Validated in PX4 SITL with jMAVSim.
+* **Latency Optimization:** Cut Time-To-First-Token (TTFT) by **65.6%** (from 1236.2ms to 424.8ms) via an optimized 224x224 center-crop inference path without degrading decode throughput.
+
+### **[Embedded Vision Trade-offs (Arduino Nicla Vision)](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7)** *(2026)*
+Exposed the critical trade-offs between accuracy, latency, RAM, and Flash through hardware-in-the-loop benchmarking. Demonstrates why accuracy-only comparisons fail on bare-metal targets by systematically surfacing activation peaks and memory bottlenecks.
+
+### **[Multi-Agent Advisor System (ETH AI Center / UBS Track)](https://github.com/Blackhand01/ZurichHackathon2025)** *(2025)*
+Co-built a multi-agent dialog-to-action prototype using Apertus-8B and GPT-4o. Features a lightweight intent classifier supervised by a "judge" model that arbitrates disagreements and triggers deterministic safe human handoffs. 
+
+### **[MuseINO (Tiny Hack Torino / Italian Tech Week)](https://github.com/Blackhand01/TinyHack2025)** *(2025)*
+Developed an edge-based attention-tracking device using Arduino Nicla Vision to quantify dwell time and engagement without recording video, ensuring complete privacy. MVP built and iterated in 32 hours.
+
+### **Elite Hackathon Placements**
+* 🏆 **4th / 150+ (HackUPC 2025):** Built **[OnlyFly](https://github.com/Blackhand01/HackUPC-Spring2025)**, a sustainable AI home-exchange MVP matching preferences and minimizing trip costs via Skyscanner/Revolut APIs. (36 hours).
+* 🏆 **7th / 4,500 (GenAI.Works 2024):** Built **[PostGenius](https://github.com/Blackhand01/PostGenius)**, a robust RAG-based multimedia engine parsing news into hallucination-controlled, multi-platform posts via Vectara and Runway.
+
+---
+
+## ⚙️ Core Stack & Skills
+
+* **Systems & Compute:** Python, C/C++, Rust, CUDA (Core concepts), PyTorch, JAX, Apple Silicon/MLX.
+* **Edge & Robotics:** ROS2, MuJoCo, Gymnasium, PX4/MAVSDK, NVIDIA Jetson (Architecture), Arduino Nicla Vision.
+* **AI Architecture:** Inference Optimization, Model Quantization, Vision-Language-Action (VLA), LLM Agents, Diffusion Models, SSL.
+* **Infra & MLOps:** Docker, Kubernetes, CI/CD, Triton Inference Server, FastApi, Telemetry & Tracing.
+
+---
+
+## 🎓 Education
+
+* **M.Sc. in Artificial Intelligence and Data Analytics** | *Politecnico di Torino* (2024 – Expected 2026)
+* **B.Sc. in Computer Engineering** | *Politecnico di Torino* (2020 – 2024)
+
+---
+
+## 📬 Contact
+
+* 📧 **Email:** [bisiwork01@gmail.com](mailto:bisiwork01@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/stefanobisignano](https://www.linkedin.com/in/stefano-roy-bisignano-9100291b2/)
+---
