@@ -13,7 +13,7 @@ My core focus is bridging the gap between advanced deep learning research (Self-
 
 My academic and professional trajectory has been shaped by resilience, rapid adaptation, and extreme self-discipline.
 
-* **The Turnaround:** I started my Computer Engineering BSc at Politecnico di Torino during the 2020 pandemic. Disoriented by remote learning and isolation, my first year was a failure—leaving me at the bottom of my peer group with only two passed exams. Refusing this poor results, I built an intensive, 100% self-taught methodology from my bedroom. 
+* **The Turnaround:** I started my Computer Engineering BSc at Politecnico di Torino during the 2020 pandemic. Disoriented by remote learning and isolation, my first year was a failure—leaving me at the bottom of my peer group with only two passed exams.Refusing to accept this outcome, I built an intensive, 100% self-taught methodology from my bedroom.
 * **The Acceleration:** Once this internal engine clicked, my execution speed exploded. In the summer of 2023, I shattered the academic backlog by passing **7 hardcore engineering exams in just 3 months** (including core pillars like *Operating Systems*, *Computer Architecture*, and *Algorithms & Data Structures*). This momentum allowed me to overtake my peer group, graduate early, and jump straight into an AI & Data Analytics MEng by September 2023.
 * **Strategic Anticipation:** I cleared my first Master’s level courses (*Big Data Processing* and *Data Science*) in early February 2024, capitalizing on the winter exam session **before even formally receiving my Bachelor’s degree** in March 2024.
 
@@ -91,7 +91,7 @@ Developed an edge-based attention-tracking device using Arduino Nicla Vision to 
 ## ⚙️ Core Stack & Skills
 
 * **Systems & Compute:** Python, C/C++, Rust, CUDA (Core concepts), PyTorch, JAX, Apple Silicon/MLX.
-* **Edge & Robotics:** ROS2, MuJoCo, Gymnasium, PX4/MAVSDK, NVIDIA Jetson (Architecture), Arduino Nicla Vision.
+* **Edge & Robotics:** ROS2, MuJoCo, Gymnasium, PX4/MAVSDK, NVIDIA Jetson, Arduino Nicla Vision.
 * **AI Architecture:** Inference Optimization, Model Quantization, Vision-Language-Action (VLA), LLM Agents, Diffusion Models, SSL.
 * **Infra & MLOps:** Docker, Kubernetes, CI/CD, Triton Inference Server, FastApi, Telemetry & Tracing.
 
