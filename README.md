@@ -68,10 +68,12 @@ Architected and deployed end-to-end LLM and vision-language systems for a global
 
 ## 🚀 Edge Systems, Robotics & Hackathons
 
-### **[Edge-VLA-Micro: Deterministic VLA Stack for Edge Autonomy](https://github.com/Blackhand01/Edge-VLA-Micro)** *(2026)*
-A neuro-symbolic FPV autonomy stack connecting voice intent, FPV vision, Qwen2-VL reasoning, and deterministic safety validation into MAVSDK/PX4 actuation. 
-* **Safety & Hardware:** Visual target hallucinations are hard-guarded by OpenCV HSV filters and strict Pydantic command schemas, overriding fail-states into a `HOLD` command before actuation. Validated in PX4 SITL with jMAVSim.
-* **Latency Optimization:** Cut Time-To-First-Token (TTFT) by **65.6%** (from 1236.2ms to 424.8ms) via an optimized 224x224 center-crop inference path without degrading decode throughput.
+### **[Edge-VLA-Micro: Distributed VLA Stack for Edge Autonomy](https://github.com/Blackhand01/Edge-VLA-Micro)** *(2026)*
+A low-latency Voice-to-Action robotics stack for PX4 drones. The system runs in two profiles: a Mac-only research profile with Qwen2-VL over MLX, and a distributed edge profile where the Mac acts as a smart sensor node (ASR + camera) while a Jetson Orin Nano runs the VLA/control brain with SmolVLM on CUDA.
+* **Safety & Control:** The VLM is not a control authority. Perception proposes intent, deterministic Pydantic/CV/state-machine guards authorize it, and MAVSDK executes only validated PX4 commands.
+* **Edge Deployment:** Demonstrated on Jetson Orin Nano 8GB with SmolVLM-256M, FastAPI bridge, OpenCV red-target guardrails, MAVSDK/PX4 integration, and hardware telemetry logging.
+* **Measured Stability:** Clean distributed run peaked at **3.5GB / 7.6GB RAM**, **99% GPU load during visual inference**, and **50.66 C max temperature**.
+* **Bottleneck Analysis:** The hardware was stable; the dominant latency was software-side ASR and visual VLM inference. Measured distributed profile: Mac ASR ~**11.16s**, Jetson SmolVLM inference ~**4.04s** average, visual inference throughput ~**10.5 TPS**.
 
 ### **[Embedded Vision Trade-offs (Arduino Nicla Vision)](https://github.com/Blackhand01/embedded-vision-tradeoffs-m7)** *(2026)*
 Exposed the critical trade-offs between accuracy, latency, RAM, and Flash through hardware-in-the-loop benchmarking. Demonstrates why accuracy-only comparisons fail on bare-metal targets by systematically surfacing activation peaks and memory bottlenecks.
