@@ -3,7 +3,7 @@
 ## 🛠️ Philosophy & Background
 
 ### Dive down to the atom. Execute without rest.
-I am an AI Systems Engineer who doesn't rely on quick talent; I rely on obsessive perseverance and strict technical integrity. I build following a first-principles approach: when a complex system catches my attention, I dive deep into its core mechanics—from optimizing asynchronous cloud architectures to squeezing inference latency on edge hardware.
+I am an AI Systems Engineer who doesn't rely on quick talent; I rely on obsessive perseverance and strict technical integrity. I build following a first-principles approach: when a complex system catches my attention, I dive deep into its core mechanics, from optimizing asynchronous cloud architectures to squeezing inference latency on edge hardware.
 
 My core focus is bridging the gap between advanced deep learning research (Self-Supervised Learning, Vision Transformers) and real-world Physical AI. This means implementing rigorous LLMOps to optimize pipelines for minimal latency, high throughput, and stable automation under strict computational and industrial hardware constraints.
 
