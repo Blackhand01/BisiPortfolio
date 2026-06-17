@@ -55,6 +55,11 @@ Architected and deployed end-to-end LLM and vision-language systems for a global
 * **Focus:** Self-Supervised Learning (SSL), Computational Pathology, Vision Transformers.
 * **Status:** Preliminary phase completed with **30/30 cum laude**. Ongoing international collaboration with pathology centers (Paris, Lyon, Nice) to transition the research into a formal publication. *(Code & dataset private pending publication).*
 
+### **[Spine2Space: Sparse 2D DRR to 3D Vertebra Reconstruction](https://github.com/Blackhand01/SynthoSpine-DRR)** *(2026)*
+* **Focus:** Medical computer vision, sparse 2D-to-3D reconstruction, CT-derived DRR generation, patient-level validation.
+* Built an end-to-end CTSpine1K prototype for CT/mask pairing, four DRR-style views per vertebra, `64^3` occupancy reconstruction, voxel/surface metrics, and inspectable 3D mesh exports.
+* Scaling the real-split micro-dataset from 20 to 50 CT/mask pairs improved best validation F1 from `0.1655` to `0.4735`, best held-out eval F1 from `0.1513` to `0.5992`, ASSD from `9.37 mm` to `3.45 mm`, and HD95 from `19.84 mm` to `9.13 mm`.
+
 ### **[Humanoid Motion Diffusion](https://github.com/Blackhand01/Humanoid-Motion-Diffusion)** *(2026)*
 * **Focus:** Generative robotics, multimodal motion synthesis, Sim-to-Real trajectory validation.
 * **Architecture:** Audio-conditioned whole-body humanoid trajectory synthesis using DDPM diffusion transformers over 24-joint SMPL pose sequences (AIST++). 
