@@ -65,8 +65,17 @@ Architected and deployed end-to-end LLM and vision-language systems for a global
 * Bridged natural language reasoning with 3D spatial environments to zero-shot localize functional regions from language prompts, inspired by 3D Highlighter (CVPR 2023).
 
 ---
+## Edge Systems, Robotics & Hackathons
 
-## 🚀 Edge Systems, Robotics & Hackathons
+### **[Autonomous Swarm - Mirai / Fincantieri Hackathon](https://github.com/MatiasSalaris/maritime_task_4/tree/demo)** *(2026)*
+
+Engineered a fault-tolerant LLM-driven multi-agent system for USV/UAV maritime autonomy.
+
+* Implemented dynamic failure recovery and shared situational awareness for edge environments.
+* Designed agent coordination under partial information, mission constraints, and runtime failures.
+* Relevant to robust autonomy, multi-agent systems, and real-time decision loops.
+
+---
 
 ### **[Edge-VLA-Micro: Distributed VLA Stack for Edge Autonomy](https://github.com/Blackhand01/Edge-VLA-Micro)** *(2026)*
 A low-latency Voice-to-Action robotics stack for PX4 drones. The system runs in two profiles: a Mac-only research profile with Qwen2-VL over MLX, and a distributed edge profile where the Mac acts as a smart sensor node (ASR + camera) while a Jetson Orin Nano runs the VLA/control brain with SmolVLM on CUDA.
